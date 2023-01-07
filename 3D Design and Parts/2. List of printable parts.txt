@@ -1,0 +1,10 @@
+Part01 Mirror chamber
+Part02 Buttom cover
+Part03 Dust cover
+Part04 Imaging lens to spectroscope interface
+Part05 Spectrometer to focusing lens interface
+Part06 Camera holder
+Part07 Beam holder on mirror
+Part08 Beam holder of enclosure
+Part09 Enclosure cover
+Part10 Enclosure
